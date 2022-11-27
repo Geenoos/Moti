@@ -166,18 +166,17 @@
 
 ### 스토리보드 및 와이어 프레임
 
-
-
-
+![image](https://user-images.githubusercontent.com/34851254/204143826-afbbd2e4-eaae-430d-b77e-a0e17b519714.png)
 
 ### API 명세서
 
-
-
-
+![image](https://user-images.githubusercontent.com/34851254/204143671-8c076c4f-6853-4b4b-93cd-97b85265b657.png)
+![image](https://user-images.githubusercontent.com/34851254/204143685-80f8038d-336d-4bfc-920b-cf20501ca5b8.png)
+![image](https://user-images.githubusercontent.com/34851254/204143698-8469a379-686b-4c30-bb15-634e9731d0d9.png)
 
 ### ERD
 
+![GitMoti](https://user-images.githubusercontent.com/34851254/204143575-956e073d-cd64-4bdd-b0f7-37507d7d39d3.png)
 
 
 
