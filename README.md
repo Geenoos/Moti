@@ -88,20 +88,22 @@
 - Server: AWS EC2 Ubuntu 20.04 LTS
 - Java: open-JDK 11
 - Spring-boot: 2.7.5
-- Docker: Stable Build
-- MariaDB: 10.6.8(LTS)
-- MongoDB: 6.0.3(LTS)
+- Jenkins: 2.361.2
+- Docker: 20.10.20
+- MariaDB: 10.6.8
+- MongoDB: 6.0.3
 - Storage: AWS S3
-- node.js: 16.18.0 (LTS)
+- node.js: 16.18.0
 - Electron: 21.2.0
 - React: 18.2.0
 - Recoil: 0.7.6
 - TypeScript: 4.8.4
 - styled-components: 5.3.6
+- Nginx: 1.18.0
 - VSCode: Stable Build
 - IntelliJ version: 22.1.3
-- MySQL Workbench: Stable Build
-- SSH client: Xshell
+- DataGrip: 22.2.4
+- SSH client: MobaXterm
 - API Test: Swagger
 
 
